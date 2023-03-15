@@ -1,2 +1,4 @@
-package org.example;public class lab7 {
+package org.example;
+
+public class lab7 {
 }
